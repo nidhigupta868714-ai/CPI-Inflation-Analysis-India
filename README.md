@@ -1,53 +1,68 @@
 # CPI-Inflation-Excel-Case-Study
-Excel dashboard analyzing CPI Inflation trends using data cleaning, pivot tables and charts.
 
-📊 CPI Inflation Analysis – Economic Data Case Study
-📌 Project Overview
+📊 A comprehensive Excel-based inflation analysis evaluating macroeconomic trends, category contribution, COVID-19 impact, and oil price correlation.
 
-This project analyzes India's Consumer Price Index (CPI) data to evaluate inflation trends, category contribution, COVID impact, and oil price correlation using Microsoft Excel.
+---
 
-The analysis focuses on deriving business insights from macroeconomic data and presenting them through structured visual storytelling.
+## 📌 Project Overview
 
-🔍 Key Analytical Areas
-1️⃣ Category Contribution to CPI Basket
+📁 Dataset: CPI (Rural + Urban) Index Data sourced from official economic statistics.
 
-Broader categories created by grouping similar items.
-Identified highest contributing bucket towards CPI.
-Ensured total contribution sums to 100%.
+This project analyzes India's Consumer Price Index (CPI) data using Microsoft Excel to extract meaningful economic insights through structured analysis and visual storytelling.
 
-2️⃣ Year-on-Year Inflation Trend (2017 onwards)
+---
 
-Visualized YoY inflation growth.
-2019 recorded highest inflation rate (7.74%) due to food price surge.
+## 🔍 Key Analytical Areas
 
-3️⃣ Food Inflation (12-month Analysis)
+### 1️⃣ Category Contribution to CPI Basket
+- Created broader buckets by grouping similar CPI components.
+- Calculated percentage contribution ensuring total equals 100%.
+- Identified highest contributing category impacting CPI weightage.
 
-Identified highest and lowest food inflation months.
-Spices emerged as major contributor to food inflation volatility.
+### 2️⃣ Year-on-Year Inflation Trend (2017 Onwards)
+- Computed YoY growth rate using index values.
+- Visualized inflation trend.
+- Identified 2019 as peak inflation year (7.74%) driven by food price surge.
 
-4️⃣ COVID-19 Impact Analysis
+### 3️⃣ 12-Month Food Inflation Analysis
+- Analyzed month-on-month price movement.
+- Identified highest and lowest food inflation months.
+- Found "Spices" as major contributor to food inflation volatility.
 
-Compared inflation trend before and after Mar’20 lockdown.
-Observed impact on healthcare and essential goods categories.
+### 4️⃣ COVID-19 Impact Assessment
+- Compared pre and post March 2020 inflation levels.
+- Observed supply-chain driven spikes in essential categories.
 
-5️⃣ Oil Price & Inflation Correlation (2021–2023)
+### 5️⃣ Oil Price & Inflation Correlation (2021–2023)
+- Conducted correlation analysis in Excel.
+- Identified strong positive relationship between imported crude oil prices and Oils & Fats category.
 
-Conducted correlation analysis using Excel.
-Oils & Fats showed strong positive relationship with imported oil prices.
+---
 
-🛠 Tools Used
+## 🛠 Tools & Techniques Used
 
-Microsoft Excel
-Pivot Tables
-Charts
-Correlation Function
-Data Cleaning
-Trend Analysis
+- Microsoft Excel
+- Pivot Tables
+- Charts & Visualization
+- Correlation Function
+- YoY Growth Calculation
+- Data Cleaning & Transformation
 
-💡 Skills Demonstrated
+---
 
-✔ Economic Data Interpretation
-✔ Inflation Trend Analysis
-✔ Correlation Analysis
-✔ Dashboard Development
-✔ Data Storytelling
+## 💡 Key Insights
+
+✔ Food category drives majority inflation volatility  
+✔ 2019 peak driven by supply-side pressures  
+✔ COVID caused short-term inflation distortion  
+✔ Oil prices significantly impact Oils & Fats inflation  
+
+---
+
+## 📈 Skills Demonstrated
+
+- Economic Data Interpretation
+- Inflation Trend Analysis
+- Correlation Analysis
+- Dashboard Development
+- Data Storytelling
